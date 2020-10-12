@@ -102,6 +102,6 @@ fi
 #fi
 
 # print hostname with figlet
-if [ command -v figlet &> /dev/null ] ; then
+if [ -x /usr/bin/figlet ] ; then
   figlet $HOSTNAME
 fi

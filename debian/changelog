@@ -1,3 +1,9 @@
+base-files (20.0.1hamonikr2) jin; urgency=medium
+
+  * Add figlet setting in bashrc
+
+ -- HamoniKR <pkg@hamonikr.org>  Mon, 12 Oct 2020 12:23:41 +0900
+
 base-files (20.0.1hamonikr1) jin; urgency=medium
 
   * Apply to HamoniKR 4.0
