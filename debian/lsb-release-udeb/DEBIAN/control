@@ -1,0 +1,10 @@
+Package: lsb-release-udeb
+Source: base-files
+Version: 20.0.1hamonikr1
+Architecture: all
+Maintainer: Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com>
+Installed-Size: 4
+Section: debian-installer
+Priority: extra
+Description: LSB release information
+Original-Maintainer: Santiago Vila <sanvila@debian.org>

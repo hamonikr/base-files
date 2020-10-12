@@ -1,0 +1,4 @@
+base-files-dbgsym_20.0.1hamonikr1_amd64.ddeb debug optional automatic=yes
+base-files_20.0.1hamonikr1_amd64.buildinfo admin required
+base-files_20.0.1hamonikr1_amd64.deb admin required
+lsb-release-udeb_20.0.1hamonikr1_all.udeb debian-installer extra
